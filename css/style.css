@@ -470,7 +470,7 @@
   width: 100%;
   height: 100%;
   background-color: var(--main-indigo);
-  clip-path: polygon(0% 0%, 60% 0%, 33% 55%, 100% 92%, 85% 100%, 0% 65%);
+  clip-path: polygon(0% 0%, 60% 0%, 35% 60%, 100% 92%, 85% 100%, 0% 65%);
 }
 
 .index-wrapper::after {
